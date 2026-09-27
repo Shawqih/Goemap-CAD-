@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeoVector CAD Mobile</string>
+    <string name="app_desc">محرك تحويل الصور الجوية إلى متجهات CAD و GIS</string>
+</resources>
