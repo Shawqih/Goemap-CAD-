@@ -1,0 +1,6 @@
+{
+  "name": "GeoVector CAD Mobile",
+  "description": "Professional aerial image to CAD/GIS vector converter with real DXF, Shapefile, GeoJSON offline export and georeferencing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
